@@ -1,0 +1,37 @@
+body{
+	text-align: center;
+	
+	font-size: 100px;
+	margin: 0;
+	padding: 0;
+}
+
+.Header {
+	background-color:#dfd359;
+	margin:0;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-bottom:10px solid #c4c4c4;
+	font-family: 'Kumar One Outline', cursive;
+	height: 500px;
+}
+#clock {
+	font-size:100px;
+	padding: 10px;
+	background-color: #f35;
+	width: 66%;
+	margin: auto;
+	border:10px solid #dfd359;
+	font-family: 'Kumar One Outline', cursive;
+	border-radius: 50px;
+}
+#pic {
+	background-image: url("Shrek.jpg");
+	width:220px;
+	height:225px;
+	margin: auto;
+}	
+#SemiT {
+	font-size: 80px;
+	font-family: 'Permanent Marker', cursive;
+}
